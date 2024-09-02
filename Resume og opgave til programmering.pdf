@@ -1,0 +1,15 @@
+Resume:
+Det binære talsystem har to forskellige tilstande 0 og 1 hvor det ligesom i ti-tals systemet har betydning hvor placeringen af cifret er.
+I stedet for at 1. placering er 1'ere 2. placering er 10'ere osv. er det i binært sådanne her.
+1. placering er 1'ere, 2. placering er 2'ere, 3. placering er 4'ere. hvorefter den næste placering vil have den dobbelte værdi af den forrige.
+En byte består af 8 bits, hvor 1 bit er et 0 eller 1, så da der er 8 bits vil det betyde at der er 8 et eller nul tal efter hindanden.
+den maksimale værdi for en byte er 255 da det vil være 1+2+4+8+16+32+64+128, hvilket giver de 255. en byte kan have 256 forskellige værdier hvilket er fordi der er fra 0 til 255 som den kan antage.
+Paritets bit er den bit længst til højre og hvis den er sat vil det betyde at tallet er ulige og omvendt, dette er fordi den repræsentere tallet 1 og vil derfor styre om tallet ender med et +1 eller ej.
+Den mest betydende bit er den længst til venstre, altså den med den højste værdi, og hvis en byte er signed er det den som afgøre om tallet er ulige eller lige.
+
+
+
+Opgave 1.5:
+Der skal stå lys i 1. vindue og 2. vindue hvis manden forlod huset kl. 3
+Der skal stå lys i 3. vindue og 1. vindue hvis manden forlod huset kl. 5
+Der skal stå lys i 4. vindue og 2. vindue hvis manden forlod huset kl. 10
